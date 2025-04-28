@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @eRp289
-- 🌱 I’m currently learning React an JavaScript
+- 🌱 I’m currently learning React, JavaScript and Python 
 - Always open to learn something new
 
 
