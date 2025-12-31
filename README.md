@@ -23,7 +23,7 @@ Data & Management: Data Visualization, Excel, ERP Systems, Agile Methodologies.
 
 
 
-Security & Specialized: OSINT, Digital Forensics, Network & Server Maintenance.
+Security & Specialized: OSINT and Digital Forensics.
 
 📊 Currently Learning
 Advanced Python for Data Analysis.
