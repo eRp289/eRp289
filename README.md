@@ -1,9 +1,41 @@
-- 👋 Hi, I’m @eRp289
-- 🌱 I’m currently learning React, JavaScript and Python 
-- Always open to learn something new
+Yehuda Pinchuck 
+
+Information Systems Student | AI Innovation & Instructional Support 
 
 
-<!---
-eRp289/eRp289 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+👨‍💻 About Me
+🎓 Currently pursuing a B.A. in Business Administration & Information Systems at Ono Academic College (Class of 2026).
+
+🚔 Working with the Israeli Police Digital Policing Branch, focusing on AI innovation and education.
+
+🛡️ Experienced in Instructional Support for Cyber & Digital Forensics (OSINT, Digital Forensics, Internet Crime).
+
+
+🌐 Passionate about building modern web applications and analyzing data to solve complex problems.
+
+🛠️ Technical Skills
+
+Languages & Frameworks: Python, JavaScript, React, HTML, CSS, SQL.
+
+
+Data & Management: Data Visualization, Excel, ERP Systems, Agile Methodologies.
+
+
+
+Security & Specialized: OSINT, Digital Forensics, Network & Server Maintenance.
+
+📊 Currently Learning
+Advanced Python for Data Analysis.
+
+React and UI Frameworks for Front-End Web Development.
+
+
+Technology Product Management.
+
+📫 Contact Me
+
+LinkedIn: linkedin.com/in/yehudap 
+
+
+Email: yehuda@ypinchuck.com
